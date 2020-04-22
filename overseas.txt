@@ -6,6 +6,7 @@
 ! Homepage:
 !
 apis.google.com
+www.google.com/recaptcha/api.js
 google.com/recaptcha/api.js
 googleapis.com
 googleusercontent.com
