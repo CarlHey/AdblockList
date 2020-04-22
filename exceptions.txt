@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version:
+! Title: HEYY Exceptions List
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
 @@||lib1.org/$document
 @@||www.ruanyifeng.com/$document
 @@||files.minecraftforge.net/$document
