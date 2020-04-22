@@ -1,0 +1,5 @@
+f.video.weibocdn.com
+miaopai.video.weibocdn.com
+https://ksv-video-publish.cdn.bcebos.com/*
+https://hiphotos.baidu.com/baike/whcrop*
+https://baikevideo.cdn.bcebos.com/media/*

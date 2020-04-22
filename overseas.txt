@@ -1,0 +1,6 @@
+googleapis.com
+googleusercontent.com
+google-analytics.com
+googletagmanager.com
+youtube.com
+facebook.com/plugins/
