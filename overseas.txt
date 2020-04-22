@@ -5,6 +5,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
+apis.google.com
 googleapis.com
 googleusercontent.com
 google-analytics.com
