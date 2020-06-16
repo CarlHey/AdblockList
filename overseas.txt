@@ -14,3 +14,4 @@ google-analytics.com
 googletagmanager.com
 youtube.com
 facebook.com/plugins/
+platform.twitter.com
