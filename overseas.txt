@@ -5,13 +5,12 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-apis.google.com
-www.google.com/recaptcha/api.js
-google.com/recaptcha/api.js
-googleapis.com
-googleusercontent.com
-google-analytics.com
-googletagmanager.com
-youtube.com
-facebook.com/plugins/
-platform.twitter.com
+||apis.google.com
+||google.com/recaptcha/api.js
+||googleapis.com
+||googleusercontent.com
+||google-analytics.com
+||googletagmanager.com
+||youtube.com
+||facebook.com/plugins/
+||platform.twitter.com
